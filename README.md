@@ -25,3 +25,4 @@ If we compare the summaries of temperature and precipitation:
 
 
 June reports less average rainfall compared to December(.14/.22). So still strong sales days for June because of high temperatures and not as much rainfall.
+
