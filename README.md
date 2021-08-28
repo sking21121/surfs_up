@@ -1,21 +1,11 @@
-# surfs_up## Overview of Project
+# surfs_up
 
-### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
+## Overview of Analysis
+temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+Using Python, SQLAlchemy, and Flask, analyze and visualize climate data as you prepare to open a surf shop.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+### Summary
