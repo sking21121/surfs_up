@@ -9,6 +9,7 @@ The results come from the SQLite data given to me from W. Avy. I queried the Mea
 ![june_temps](https://user-images.githubusercontent.com/86200136/131225152-5d978e87-44f6-4352-ae37-3f7961610d5b.png)
 ![dec_temps](https://user-images.githubusercontent.com/86200136/131225083-57054598-bf57-4da2-970d-048fc979e455.png)
 
-
+From this data we can determine:
+-there is not much of a difference in temperature between June and December
 
 ### Summary
